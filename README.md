@@ -2,6 +2,9 @@
 
 **深度学习三把斧第一把: "数据增广"**
 
+博客地址: [目标检测系列二：数据增广](http://www.spytensor.com/index.php/archives/50/)
+本部分代码: [image_aug_for_detection](https://github.com/spytensor/image_aug_for_detection)
+
 ### 1. 更新
 
 ```version 0.1.0```
@@ -71,4 +74,9 @@ Step 3: 执行 ``python example.py``
 
 ### 2.4 增强效果
 
-![]()
+![](https://github.com/spytensor/image_aug_for_detection/blob/master/samples/FotoJet.jpg?raw=true)
+
+# TODO
+
+1. 替换增强方式为`imgaug`下的,支持更多种类的数据扩充
+2. 暂时没其他需要,没考虑那么多,有需求提`issue`就行.
