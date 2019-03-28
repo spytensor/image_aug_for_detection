@@ -76,7 +76,14 @@ Step 3: 执行 ``python example.py``
 
 ![](https://github.com/spytensor/image_aug_for_detection/blob/master/samples/FotoJet.jpg?raw=true)
 
+## 3 目标检测系列
+
+1. [目标检测系列一：如何制作数据集?](http://www.spytensor.com/index.php/archives/48/)
+2. [目标检测系列二：数据增广](http://www.spytensor.com/index.php/archives/50/)
+
+
 # TODO
 
 1. 替换增强方式为`imgaug`下的,支持更多种类的数据扩充
 2. 暂时没其他需要,没考虑那么多,有需求提`issue`就行.
+3. 下一篇:通过实例掌握目标检测
